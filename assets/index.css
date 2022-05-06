@@ -52,5 +52,12 @@ button {
     background-size: cover;
     background-position: center center;
     height: 100vh;
-    display: flex;
+}
+
+#content1 {
+    color: #FAFF00;
+}
+
+#content2 {
+    color: white;
 }
