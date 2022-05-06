@@ -1,0 +1,21 @@
+body {
+    font-family: 'Poppins,  Actor, Adamina';
+    margin: 0px;
+    background-color: wheat;
+}
+
+nav {
+    display: flex;
+    background-color: black;
+}
+
+div ul li {
+    display: inline;
+}
+
+div ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
+    font-size: medium;
+}
