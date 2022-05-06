@@ -121,6 +121,7 @@ button {
     margin-left: 60px;
     margin-right: 60px;
     align-items: center;
+    margin-top: 10px;
 }
 
 .wrapimages {
@@ -162,9 +163,32 @@ button {
     height: 200px;
     width: 300px;
     margin: 10px;
-    background-color: #FAFF00;
 }
 
-.img7 {
-    flex-grow: 2;
+#wrap {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+#movers {
+    padding-top: 70px;
+}
+
+#movers1 {
+    text-decoration: overline;
+}
+
+footer {
+    background-color: black;
+    margin-top: 50px;
+    padding-bottom: 100px;
+}
+
+.footer #move {
+    color: white;
+}
+
+.heading2 {
+    padding-left: 50px;
+    padding-top: 30px;
 }
