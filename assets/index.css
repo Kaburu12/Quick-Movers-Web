@@ -9,6 +9,10 @@ nav {
     background-color: black;
 }
 
+.topnav ul {
+    margin-left: 300px;
+}
+
 div ul li {
     display: inline;
 }
