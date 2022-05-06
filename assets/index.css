@@ -32,3 +32,19 @@ button {
     padding-left: 10px;
     padding-right: 10px;
 }
+
+.btn1 {
+    background-color: #FFAC12;
+}
+
+#btn1 {
+    color: black;
+}
+
+.btn2 {
+    background-color: black;
+}
+
+#btn2 {
+    color: #FAFF00;
+}
