@@ -7,6 +7,9 @@ body {
 nav {
     display: flex;
     background-color: black;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .topnav ul {
@@ -15,7 +18,7 @@ nav {
 
 div ul li {
     display: inline;
-    margin-inline: 10px;
+    margin-inline: 20px;
 }
 
 div ul li a {
@@ -23,4 +26,9 @@ div ul li a {
     color: white;
     font-weight: 900;
     font-size: medium;
+}
+
+button {
+    padding-left: 10px;
+    padding-right: 10px;
 }
