@@ -10,11 +10,12 @@ nav {
 }
 
 .topnav ul {
-    margin-left: 300px;
+    margin-left: 400px;
 }
 
 div ul li {
     display: inline;
+    margin-inline: 10px;
 }
 
 div ul li a {
