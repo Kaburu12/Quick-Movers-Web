@@ -120,8 +120,51 @@ button {
 .part2 {
     margin-left: 60px;
     margin-right: 60px;
+    align-items: center;
 }
 
 .wrapimages {
     display: flex;
+    flex-wrap: wrap;
+}
+
+#img3 {
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+}
+
+#img4 {
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+}
+
+#img5 {
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+}
+
+#img6 {
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+}
+
+#img7 {
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+}
+
+#img8 {
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+    background-color: #FAFF00;
+}
+
+.img7 {
+    flex-grow: 2;
 }
