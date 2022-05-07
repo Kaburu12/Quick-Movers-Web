@@ -1,12 +1,10 @@
 body {
     font-family: 'Poppins,  Actor, Adamina';
-    margin: 0px;
+    margin: 5px;
     background-color: white;
 }
 
 nav {
-    margin-left: 10px;
-    margin-right: 10px;
     background-color: black;
 }
 
@@ -61,4 +59,168 @@ div #leftside {
 
 div #rightside {
     padding-right: 90px;
+}
+
+.content1 {
+    background-color: rgb(240, 240, 240);
+}
+
+.left-images {
+    width: 50%;
+    padding: 0px;
+}
+
+#image1 {
+    height: 400px;
+    width: 490px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.seven-images {
+    margin-left: 40px;
+}
+
+div>#img2 {
+    width: 50px;
+    padding: 10px;
+}
+
+div>#img3 {
+    width: 50px;
+    padding: 10px;
+}
+
+div>#img4 {
+    width: 50px;
+    padding: 10px;
+}
+
+div>#img5 {
+    width: 50px;
+    padding: 10px;
+}
+
+div>#img6 {
+    width: 50px;
+    padding: 10px;
+}
+
+div>#img7 {
+    width: 50px;
+    padding: 10px;
+}
+
+div>#img8 {
+    width: 50px;
+    padding: 10px;
+}
+
+.right-images {
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    padding: 20px;
+    margin-left: 30px;
+}
+
+.part1 {
+    display: flex;
+}
+
+#profile {
+    display: flex;
+    background-color: rgb(245, 23, 23);
+    border-radius: 10px;
+    margin: 7px;
+    padding-right: 50px;
+}
+
+#left-profile {
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+#right-profile {
+    padding-top: 0px;
+    padding-left: 10px;
+}
+
+div #kayley {
+    font-weight: 300;
+    font-size: 15px;
+}
+
+#view-profile {
+    font-size: small;
+    color: #FAFF00;
+}
+
+#img9 {
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+}
+
+input {
+    margin-left: 7px;
+    margin-right: 7px;
+    border-radius: 5px;
+    margin-bottom: 7px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color: rgb(240, 240, 240);
+}
+
+#comment {
+    padding-bottom: 30px;
+}
+
+.btn2 {
+    background-color: black;
+    margin-left: 7px;
+    border-radius: 0px 10px 0px 0px;
+    border-color: rgb(240, 240, 240);
+}
+
+div #btn2 {
+    color: white;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#arrow2 {
+    color: #FAFF00;
+}
+
+.content2 {
+    margin-bottom: 5px;
+    margin-left: 50px;
+    margin-right: 567px;
+    background-color: white;
+    border-radius: 20px 20px 0px 0px;
+}
+
+#details {
+    padding-top: 20px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+}
+
+.partitions {
+    display: flex;
+    margin-left: 50px;
+}
+
+#partitions {
+    background-color: white;
+    height: 30px;
+    padding-left: 42px;
+    padding-right: 42px;
+    padding-top: 10px;
+    margin: 1px 1px 1px 1px;
 }
