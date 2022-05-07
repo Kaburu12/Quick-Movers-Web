@@ -5,7 +5,6 @@ body {
 }
 
 nav {
-    display: flex;
     margin-left: 10px;
     margin-right: 10px;
     background-color: black;
@@ -13,7 +12,7 @@ nav {
 
 .topnav ul {
     margin-left: 300px;
-    margin-top: 30px;
+    padding-top: 30px;
 }
 
 div ul li {
@@ -48,4 +47,18 @@ button {
 
 #arrow {
     color: white;
+}
+
+.nav-content {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+div #leftside {
+    padding-left: 90px;
+}
+
+div #rightside {
+    padding-right: 90px;
 }
