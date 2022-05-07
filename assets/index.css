@@ -25,6 +25,12 @@ div ul li a {
     font-size: large;
 }
 
+div ul li a:hover {
+    color: red;
+    background-color: antiquewhite;
+    padding: 10px;
+}
+
 button {
     padding-left: 10px;
     padding-right: 10px;
@@ -50,8 +56,8 @@ button {
 
 .sect-1 {
     background-image: url(/assets/images/moving\ 1.png);
-    background-size: contain;
-    background-position: 95%;
+    background-size: cover;
+    background-position: center;
     height: 100vh;
     margin: 10px;
 }
@@ -72,7 +78,7 @@ button {
 }
 
 #part1 {
-    margin-top: 120px;
+    margin-top: 90px;
     align-items: center center;
     margin-bottom: 0px;
     display: flex;
@@ -83,6 +89,7 @@ button {
     width: 50%;
     margin-right: 30px;
     margin-left: 0px;
+    margin-top: 40px;
 }
 
 .left #img2 {
@@ -107,7 +114,7 @@ button {
     border-radius: 0px 7px 0px 0px;
 }
 
-.head2 {
+#cut-the {
     text-decoration-line: overline;
 }
 
@@ -130,42 +137,75 @@ button {
 #img3 {
     height: 200px;
     width: 300px;
-    margin: 10px;
+    margin: 0px;
 }
 
 #img4 {
     height: 200px;
     width: 300px;
-    margin: 10px;
+    margin: 0px;
 }
 
 #img5 {
     height: 200px;
     width: 300px;
-    margin: 10px;
+    margin: 0px;
 }
 
 #img6 {
     height: 200px;
     width: 300px;
-    margin: 10px;
+    margin: 0px;
 }
 
 #img7 {
     height: 200px;
     width: 300px;
-    margin: 10px;
+    margin: 0px;
 }
 
 #img8 {
     height: 200px;
     width: 300px;
-    margin: 10px;
+    margin: 0px;
 }
 
 #wrap {
     margin-top: 80px;
     margin-bottom: 80px;
+}
+
+.pics {
+    background-color: white;
+    border-radius: 20px 20px 0px 0px;
+    margin-right: 10px;
+}
+
+.movers1 {
+    margin-left: 15px;
+}
+
+.malto-partition {
+    display: flex;
+    background-color: rgb(240, 240, 240);
+    margin-bottom: 20px;
+}
+
+div #malto-part {
+    padding-left: 10px;
+    padding-right: 0px;
+    padding-top: 10px;
+    margin: 1px 1px 1px 1px;
+    background-color: white;
+    width: 60%;
+}
+
+.malt {
+    border-radius: 0px 0px 0px 20px;
+}
+
+.malt1 {
+    border-radius: 0px 0px 20px 0px;
 }
 
 #movers {
