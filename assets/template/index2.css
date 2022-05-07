@@ -25,6 +25,10 @@
         font-size: large;
     }
     
+    div ul li a :hover {
+        color: red;
+    }
+    
     button {
         padding-left: 10px;
         padding-right: 10px;
@@ -127,6 +131,11 @@
         margin-left: 30px;
     }
     
+    #right-side {
+        padding: 10px;
+        box-shadow: 10px 10px 10px grey;
+    }
+    
     .part1 {
         display: flex;
     }
@@ -211,6 +220,7 @@
         padding-top: 20px;
         padding-bottom: 60px;
         padding-left: 20px;
+        font-weight: 700;
     }
     
     .partitions {
@@ -236,6 +246,7 @@
         margin-right: 490px;
         background-color: white;
         border-radius: 20px 20px 0px 0px;
+        font-weight: 700;
     }
     
     .At-vero {
@@ -252,12 +263,13 @@
     .feature {
         padding-top: 20px;
         padding-bottom: 60px;
-        padding-left: 20px;
+        padding-left: 40px;
         margin-bottom: 5px;
         margin-left: 130px;
         margin-right: 490px;
         background-color: white;
         border-radius: 20px 20px 0px 0px;
+        font-weight: 700;
     }
     
     .Air-condi {
@@ -284,6 +296,10 @@
         margin-top: 40px;
         font-size: xx-large;
         margin-bottom: 40px;
+    }
+    
+    div #similar {
+        text-decoration-line: overline;
     }
     
     .last-images {
@@ -316,7 +332,7 @@
         margin: 0px;
     }
     
-    .pic10 {
+    .pics {
         background-color: white;
         border-radius: 20px 20px 0px 0px;
         margin-right: 10px;
@@ -337,7 +353,15 @@
         padding-top: 10px;
         margin: 1px 1px 1px 1px;
         background-color: white;
-        width: 60%;
+        width: 70%;
+    }
+    
+    .malt {
+        border-radius: 0px 0px 0px 20px;
+    }
+    
+    .malt1 {
+        border-radius: 0px 0px 20px 0px;
     }
     
     footer {
