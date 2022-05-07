@@ -184,11 +184,49 @@ footer {
     padding-bottom: 100px;
 }
 
+#footercont {
+    display: flex;
+}
+
+.footer {
+    padding-top: 30px;
+}
+
 .footer #move {
     color: white;
 }
 
 .heading2 {
-    padding-left: 50px;
+    padding-left: 60px;
     padding-top: 30px;
+    color: #FAFF00;
+}
+
+#column {
+    color: white;
+}
+
+.tables {
+    color: white;
+    display: flex;
+    margin-left: 100px;
+    padding-top: 30px;
+    padding-right: 20px;
+}
+
+tr>th {
+    padding: 20px;
+}
+
+tr>td {
+    padding: 30px;
+}
+
+.social {
+    padding-top: 90px;
+    padding-left: 20px;
+}
+
+#social {
+    display: inline;
 }
