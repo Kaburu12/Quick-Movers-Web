@@ -1,0 +1,51 @@
+body {
+    font-family: 'Poppins,  Actor, Adamina';
+    margin: 0px;
+    background-color: white;
+}
+
+nav {
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: black;
+}
+
+.topnav ul {
+    margin-left: 300px;
+    margin-top: 30px;
+}
+
+div ul li {
+    display: inline;
+    margin-inline: 20px;
+}
+
+div ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
+    font-size: large;
+}
+
+button {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.btn1 {
+    background-color: #FFAC12;
+    padding: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 0px 10px 0px 0px;
+    border-color: #FFAC12;
+}
+
+#btn1 {
+    color: black;
+}
+
+#arrow {
+    color: white;
+}
