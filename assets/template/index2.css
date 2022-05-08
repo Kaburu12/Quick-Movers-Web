@@ -231,8 +231,8 @@
     #partitions {
         background-color: white;
         height: 30px;
-        padding-left: 31px;
-        padding-right: 31px;
+        padding-left: 46px;
+        padding-right: 48px;
         padding-top: 10px;
         margin: 1px 1px 1px 1px;
     }
@@ -285,8 +285,8 @@
     }
     
     #Air {
-        padding-left: 20px;
-        padding-right: 20px;
+        padding-left: 46px;
+        padding-right: 46px;
         padding-bottom: 20px;
         padding-top: 10px;
     }
@@ -304,7 +304,7 @@
     
     .last-images {
         display: flex;
-        margin-left: 90px;
+        margin-left: 135px;
         margin-right: 50px;
     }
     

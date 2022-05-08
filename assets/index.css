@@ -55,10 +55,10 @@ button {
 }
 
 .sect-1 {
-    background-image: url(/assets/images/moving1.png);
+    background-image: url(/moving1.png);
     background-size: cover;
     background-position: center;
-    height: 100vh;
+    height: 80vh;
     margin: 10px;
 }
 
@@ -123,7 +123,7 @@ button {
 }
 
 .part2 {
-    margin-left: 60px;
+    margin-left: 140px;
     margin-right: 60px;
     align-items: center;
     margin-top: 10px;
