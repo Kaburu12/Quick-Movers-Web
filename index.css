@@ -1,0 +1,282 @@
+body {
+    font-family: 'Poppins,  Actor, Adamina';
+    margin: 5px;
+    background-color: white;
+}
+
+nav {
+    display: flex;
+}
+
+.topnav ul {
+    margin-left: 300px;
+    margin-top: 30px;
+}
+
+div ul li {
+    display: inline;
+    margin-inline: 20px;
+}
+
+div ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
+    font-size: large;
+}
+
+div ul li a:hover {
+    color: red;
+    background-color: antiquewhite;
+    padding: 10px;
+}
+
+button {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.btn1 {
+    background-color: #FFAC12;
+}
+
+#btn1 {
+    color: black;
+}
+
+.btn2 {
+    background-color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#btn2 {
+    color: #FAFF00;
+}
+
+.sect-1 {
+    background-image: url(/moving1.png);
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+    margin: 10px;
+}
+
+#content1 {
+    color: #FAFF00;
+    margin-top: 40px;
+    font-size: 48px;
+}
+
+#content2 {
+    color: white;
+    font-size: 34px;
+}
+
+.head {
+    margin-left: 80px;
+}
+
+#part1 {
+    margin-top: 70px;
+    align-items: center center;
+    margin-bottom: 0px;
+    display: flex;
+    margin-left: 0px;
+}
+
+.left {
+    width: 50%;
+    margin-right: 30px;
+    margin-left: 0px;
+    margin-top: 25px;
+}
+
+.left #img2 {
+    height: 360px;
+    width: 450px;
+    margin-right: 20px;
+}
+
+.right {
+    width: 50%;
+    margin-top: 80px;
+    font-size: large;
+}
+
+.btn3 {
+    color: #FAFF00;
+    background-color: black;
+    padding: 10px;
+}
+
+#btn3 {
+    border-radius: 0px 7px 0px 0px;
+}
+
+#cut-the {
+    text-decoration-line: overline;
+}
+
+.section2 {
+    background-color: rgb(245, 245, 245);
+}
+
+.part2 {
+    margin-left: 140px;
+    margin-right: 60px;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.wrapimages {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#img3 {
+    height: 200px;
+    width: 300px;
+    margin: 0px;
+}
+
+#img4 {
+    height: 200px;
+    width: 300px;
+    margin: 0px;
+}
+
+#img5 {
+    height: 200px;
+    width: 300px;
+    margin: 0px;
+}
+
+#img6 {
+    height: 200px;
+    width: 300px;
+    margin: 0px;
+}
+
+#img7 {
+    height: 200px;
+    width: 300px;
+    margin: 0px;
+}
+
+#img8 {
+    height: 200px;
+    width: 300px;
+    margin: 0px;
+}
+
+#wrap {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.pics {
+    background-color: white;
+    border-radius: 20px 20px 0px 0px;
+    margin-right: 10px;
+}
+
+.movers1 {
+    margin-left: 15px;
+}
+
+.malto-partition {
+    display: flex;
+    background-color: rgb(240, 240, 240);
+    margin-bottom: 20px;
+}
+
+div #malto-part {
+    padding-left: 10px;
+    padding-right: 0px;
+    padding-top: 10px;
+    margin: 1px 1px 1px 1px;
+    background-color: white;
+    width: 60%;
+}
+
+.malt {
+    border-radius: 0px 0px 0px 20px;
+}
+
+.malt1 {
+    border-radius: 0px 0px 20px 0px;
+}
+
+#movers {
+    padding-top: 70px;
+}
+
+#movers1 {
+    text-decoration: overline;
+}
+
+footer {
+    background-color: black;
+    margin-top: 50px;
+    padding-bottom: 100px;
+}
+
+#footercont {
+    display: flex;
+}
+
+.footer {
+    padding-top: 30.5px;
+}
+
+.footer #move {
+    color: white;
+}
+
+.heading2 {
+    padding-left: 60px;
+    padding-top: 30px;
+    color: #FAFF00;
+}
+
+#column {
+    color: white;
+}
+
+.tables {
+    color: white;
+    display: flex;
+    margin-left: 100px;
+    padding-top: 30px;
+    padding-right: 20px;
+}
+
+tr>th {
+    padding: 20px;
+}
+
+tr>td {
+    padding: 30px;
+}
+
+.social {
+    padding-top: 90px;
+    padding-left: 20px;
+}
+
+#social {
+    display: inline;
+}
+
+#twit-img {
+    width: 15px;
+}
+
+#fb-img {
+    width: 15px;
+}
+
+#insta-img {
+    width: 15px;
+}
