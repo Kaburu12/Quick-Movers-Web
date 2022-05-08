@@ -78,7 +78,7 @@ button {
 }
 
 #part1 {
-    margin-top: 90px;
+    margin-top: 70px;
     align-items: center center;
     margin-bottom: 0px;
     display: flex;
@@ -89,11 +89,11 @@ button {
     width: 50%;
     margin-right: 30px;
     margin-left: 0px;
-    margin-top: 40px;
+    margin-top: 25px;
 }
 
 .left #img2 {
-    height: 350px;
+    height: 360px;
     width: 450px;
     margin-right: 20px;
 }
