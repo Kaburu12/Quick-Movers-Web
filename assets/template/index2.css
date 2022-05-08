@@ -1,0 +1,440 @@
+    body {
+        font-family: 'Poppins,  Actor, Adamina';
+        margin: 5px;
+        background-color: white;
+    }
+    
+    nav {
+        background-color: black;
+    }
+    
+    .topnav ul {
+        margin-left: 300px;
+        padding-top: 30px;
+    }
+    
+    div ul li {
+        display: inline;
+        margin-inline: 20px;
+    }
+    
+    div ul li a {
+        text-decoration: none;
+        color: white;
+        font-weight: 900;
+        font-size: large;
+    }
+    
+    div ul li a :hover {
+        color: red;
+    }
+    
+    button {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    
+    .btn1 {
+        background-color: #FFAC12;
+        padding: 7px;
+        padding-left: 10px;
+        padding-right: 10px;
+        border-radius: 0px 10px 0px 0px;
+        border-color: #FFAC12;
+    }
+    
+    #btn1 {
+        color: black;
+    }
+    
+    #arrow {
+        color: white;
+    }
+    
+    .nav-content {
+        display: flex;
+        justify-content: space-between;
+        color: white;
+    }
+    
+    div #leftside {
+        padding-left: 90px;
+    }
+    
+    div #rightside {
+        padding-right: 90px;
+    }
+    
+    .content1 {
+        background-color: rgb(240, 240, 240);
+    }
+    
+    .left-images {
+        width: 50%;
+        padding: 0px;
+        margin-left: 80px;
+        margin-right: 80px;
+    }
+    
+    #image1 {
+        height: 400px;
+        width: 490px;
+        margin-left: 50px;
+        margin-top: 50px;
+    }
+    
+    .seven-images {
+        margin-left: 40px;
+    }
+    
+    div>#img2 {
+        width: 50px;
+        padding: 10px;
+    }
+    
+    div>#img3 {
+        width: 50px;
+        padding: 10px;
+    }
+    
+    div>#img4 {
+        width: 50px;
+        padding: 10px;
+    }
+    
+    div>#img5 {
+        width: 50px;
+        padding: 10px;
+    }
+    
+    div>#img6 {
+        width: 50px;
+        padding: 10px;
+    }
+    
+    div>#img7 {
+        width: 50px;
+        padding: 10px;
+    }
+    
+    div>#img8 {
+        width: 50px;
+        padding: 10px;
+    }
+    
+    .right-images {
+        background-color: white;
+        border-radius: 10px;
+        margin-top: 50px;
+        margin-bottom: 80px;
+        padding: 20px;
+        margin-left: 30px;
+    }
+    
+    #right-side {
+        padding: 10px;
+        box-shadow: 10px 10px 10px grey;
+    }
+    
+    .part1 {
+        display: flex;
+    }
+    
+    #profile {
+        display: flex;
+        background-color: rgb(245, 23, 23);
+        border-radius: 10px;
+        margin: 7px;
+        padding-right: 50px;
+    }
+    
+    #left-profile {
+        padding-top: 10px;
+        padding-left: 20px;
+    }
+    
+    #right-profile {
+        padding-top: 0px;
+        padding-left: 10px;
+    }
+    
+    div #kayley {
+        font-weight: 300;
+        font-size: 15px;
+    }
+    
+    #view-profile {
+        font-size: small;
+        color: #FAFF00;
+    }
+    
+    #img9 {
+        width: 30px;
+        height: 30px;
+        border-radius: 50px;
+    }
+    
+    input {
+        margin-left: 7px;
+        margin-right: 7px;
+        border-radius: 5px;
+        margin-bottom: 7px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-color: rgb(240, 240, 240);
+    }
+    
+    #comment {
+        padding-bottom: 30px;
+    }
+    
+    .btn2 {
+        background-color: black;
+        margin-left: 7px;
+        border-radius: 0px 10px 0px 0px;
+        border-color: rgb(240, 240, 240);
+    }
+    
+    div #btn2 {
+        color: white;
+        padding: 10px;
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    
+    #arrow2 {
+        color: #FAFF00;
+    }
+    
+    .content2 {
+        margin-bottom: 5px;
+        margin-left: 130px;
+        margin-right: 490px;
+        background-color: white;
+        border-radius: 20px 20px 0px 0px;
+    }
+    
+    #details {
+        padding-top: 20px;
+        padding-bottom: 60px;
+        padding-left: 20px;
+        font-weight: 700;
+    }
+    
+    .partitions {
+        display: flex;
+        margin-left: 130px;
+    }
+    
+    #partitions {
+        background-color: white;
+        height: 30px;
+        padding-left: 46px;
+        padding-right: 48px;
+        padding-top: 10px;
+        margin: 1px 1px 1px 1px;
+    }
+    
+    .descrip {
+        padding-top: 20px;
+        padding-bottom: 60.5px;
+        padding-left: 20px;
+        margin-bottom: 5px;
+        margin-left: 130px;
+        margin-right: 490px;
+        background-color: white;
+        border-radius: 20px 20px 0px 0px;
+        font-weight: 700;
+    }
+    
+    .At-vero {
+        padding-top: 20px;
+        padding-bottom: 60.2px;
+        padding-left: 20px;
+        margin-bottom: 5px;
+        margin-left: 130px;
+        margin-right: 490px;
+        background-color: white;
+        border-radius: 0px 0px 10px 10px;
+    }
+    
+    .feature {
+        padding-top: 20px;
+        padding-bottom: 60px;
+        padding-left: 40px;
+        margin-bottom: 5px;
+        margin-left: 130px;
+        margin-right: 490px;
+        background-color: white;
+        border-radius: 20px 20px 0px 0px;
+        font-weight: 700;
+    }
+    
+    .Air-condi {
+        padding-top: 20px;
+        padding-bottom: 10px;
+        padding-left: 23.5px;
+        margin-bottom: 5px;
+        margin-left: 130px;
+        margin-right: 490px;
+        background-color: white;
+        border-radius: 0px 0px 10px 10px;
+        padding-right: 23.5px;
+    }
+    
+    #Air {
+        padding-left: 46px;
+        padding-right: 46px;
+        padding-bottom: 20px;
+        padding-top: 10px;
+    }
+    
+    div .listings {
+        margin-left: 130px;
+        margin-top: 40px;
+        font-size: xx-large;
+        margin-bottom: 40px;
+    }
+    
+    div #similar {
+        text-decoration-line: overline;
+    }
+    
+    .last-images {
+        display: flex;
+        margin-left: 135px;
+        margin-right: 50px;
+    }
+    
+    div #img10 {
+        width: 220px;
+        height: 200px;
+        margin: 0px;
+    }
+    
+    div #img11 {
+        width: 220px;
+        height: 200px;
+        margin: 0px;
+    }
+    
+    div #img12 {
+        width: 220px;
+        height: 200px;
+        margin: 0px;
+    }
+    
+    div #img13 {
+        width: 220px;
+        height: 200px;
+        margin: 0px;
+    }
+    
+    .pics {
+        background-color: white;
+        border-radius: 20px 20px 0px 0px;
+        margin-right: 10px;
+    }
+    
+    div #malto1 {
+        margin-left: 15px;
+    }
+    
+    .malto-partition {
+        display: flex;
+        background-color: rgb(240, 240, 240);
+    }
+    
+    div #malto-part {
+        padding-left: 10px;
+        padding-right: 0px;
+        padding-top: 10px;
+        margin: 1px 1px 1px 1px;
+        background-color: white;
+        width: 70%;
+    }
+    
+    .malt {
+        border-radius: 0px 0px 0px 20px;
+    }
+    
+    .malt1 {
+        border-radius: 0px 0px 20px 0px;
+    }
+    
+    footer {
+        background-color: black;
+        margin-top: 50px;
+        padding-bottom: 100px;
+    }
+    
+    #footercont {
+        display: flex;
+    }
+    
+    .footer {
+        padding-top: 30px;
+    }
+    
+    .footer #move {
+        color: white;
+    }
+    
+    #footer-head {
+        display: flex;
+    }
+    
+    .heading2 {
+        padding-left: 60px;
+        padding-top: 20px;
+        color: white;
+    }
+    
+    #reality {
+        color: #FFAC12;
+        margin-left: 30px;
+        margin-top: 40px;
+    }
+    
+    #column {
+        color: white;
+    }
+    
+    .tables {
+        color: white;
+        display: flex;
+        margin-left: 100px;
+        padding-top: 30px;
+        padding-right: 20px;
+    }
+    
+    tr>th {
+        padding: 20px;
+    }
+    
+    tr>td {
+        padding: 30.5px;
+    }
+    
+    .social {
+        padding-top: 91px;
+        padding-left: 20px;
+    }
+    
+    #social {
+        display: inline;
+    }
+    
+    #twit-img {
+        width: 15px;
+    }
+    
+    #fb-img {
+        width: 15px;
+    }
+    
+    #insta-img {
+        width: 15px;
+    }
