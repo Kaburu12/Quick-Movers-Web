@@ -285,10 +285,15 @@
     }
     
     #Air {
-        padding-left: 46px;
-        padding-right: 46px;
+        padding-left: 35px;
+        padding-right: 35px;
         padding-bottom: 20px;
         padding-top: 10px;
+    }
+    
+    #icon {
+        width: 18px;
+        border-radius: 10px;
     }
     
     div .listings {
