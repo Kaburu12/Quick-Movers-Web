@@ -17,6 +17,7 @@ Quick Movers is a project name of a landing page to a logistics company. This pr
 
 ## Live-Link
 
+kaburu12.github.io/quick-movers-web/
 
 ## Technology-Used
 
